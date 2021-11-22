@@ -1,0 +1,3 @@
+{
+    "MONGO_URI":"mongodb+srv://zinguer:123@webmongodb.gvnux.mongodb.net/mongooseTest?retryWrites=true&w=majority"
+}
